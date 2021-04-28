@@ -1,0 +1,8 @@
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\obj\Debug\netcoreapp3.1\Devcurate.Data.AssemblyInfoInputs.cache
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\obj\Debug\netcoreapp3.1\Devcurate.Data.AssemblyInfo.cs
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\obj\Debug\netcoreapp3.1\Devcurate.Data.csproj.CoreCompileInputs.cache
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\bin\Debug\netcoreapp3.1\Devcurate.Data.deps.json
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\bin\Debug\netcoreapp3.1\Devcurate.Data.dll
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\bin\Debug\netcoreapp3.1\Devcurate.Data.pdb
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\obj\Debug\netcoreapp3.1\Devcurate.Data.dll
+C:\Users\Natthakhon.la\source\repos\Devcurate.Api\Devcurate.Data\obj\Debug\netcoreapp3.1\Devcurate.Data.pdb
